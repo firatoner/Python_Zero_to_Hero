@@ -1,2 +1,2 @@
-# Python Zero to Pro
+# Python Zero to Hero
 My Python adventure
